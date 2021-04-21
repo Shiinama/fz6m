@@ -2,7 +2,7 @@
 
 Hi, I am **Yingci**. 
 
- <!-- - 🍰 I’m currently working on web development -->
+ - 🍰 I’m currently working on web development
  - 🌈 I’m currently learning Vue.js , React
  - 🌸 Programming with love
 
