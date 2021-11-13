@@ -2,6 +2,6 @@
 
 Hi, I am **Yingci**. 
 
- - 🍰 A detached web developer
- - 🌈 Currently learning `Vue.js` , `React`
+ - 🍰 I’m a web developer who follow my heart
+ - 🌈 I’m current learning `React`, `Vue.js`
  - 🌸 Programming with love
